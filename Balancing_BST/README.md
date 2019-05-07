@@ -2,6 +2,7 @@
 **Completed Program 9.3**
 
 Assignment:
+
 Program 9.1
 
 Load a BST using the following numbers and in this order:  18, 14, 20, 22, 36, 57, 61, 21, 79, 60, 81, 95, 90.
