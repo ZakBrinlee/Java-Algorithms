@@ -7,4 +7,5 @@ Read a file (BS.txtPreview the document) of integers into an array list so that 
 634, 4, 7532, 534, 2888, 45654, 555
 
 Output:
+
 ![Output](https://github.com/ZakBrinlee/Java-Algorithms/blob/master/Binary_Search/Program_4_TestedOutput%20(1).PNG)
