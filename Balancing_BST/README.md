@@ -1,6 +1,6 @@
 # AD 300 Coursework
 **Completed Program 9.3**
-![Completed 9.3 with Testing](9.3.png "Completed 9.3 with Testing")
+![Completed 9.3 with Testing](https://github.com/ZakBrinlee/Java-Algorithms/blob/master/Balancing_BST/9.3.PNG)
 
 Assignment:
 
