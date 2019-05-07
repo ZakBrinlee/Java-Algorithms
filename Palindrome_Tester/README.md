@@ -2,6 +2,7 @@
 Program 6
 
 Assignment:
+
 A palindrome is a word that reads the same forwards as backwards. The words tot, madam and racecar are palindromes; the words tote and Racer are not.
 
 Complete the PalindromeTestWrapper method so that it reads a string from the user, calls isPalindrome to determine if it is a palindrome and displays an appropriate message. Your program must allow the user to repeatedly enter strings.
