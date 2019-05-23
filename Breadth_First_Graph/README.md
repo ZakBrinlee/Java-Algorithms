@@ -3,7 +3,7 @@
 ![Search Example](https://github.com/ZakBrinlee/Java-Algorithms/blob/master/Breadth_First_Graph/GraphSearchResults.JPG)
 Assignment:
 
-Write a program that will load a graph with the contents of the file Routes.csvPreview the document
+Write a program that will load a graph with the contents of the file Routes.csv
 
 The file is a csv file that contains many rows of three elements (airline code, from airport, and to airport).  For this program only the airports are important.  The airline code can be ignored.
 
