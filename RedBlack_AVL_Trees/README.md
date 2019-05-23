@@ -1,5 +1,7 @@
 # AD 325 Coursework
 
+![Red Black Tree](https://github.com/ZakBrinlee/Java-Algorithms/blob/master/RedBlack_AVL_Trees/RedBlackResults.PNG)
+
 Assignment:
 
 Write two programs.  The first one must utilize a red black tree; the second must utilize an AVL tree.
