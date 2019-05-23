@@ -1,5 +1,5 @@
 # AD 325 Coursework
-
+![Compared Sorts](https://github.com/ZakBrinlee/Java-Algorithms/blob/master/Shell_Insertion_Selection_Sorts/SortsCompareResults.JPG)
 Assignment:
 
 Write a program that randomly generates 100,000 integers into an array.
